@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: spring-demo
-        image: rafacalvo/spring-demo:latest
+        image: rafacalvo/spring-demo:0.0.1-SNAPSHOT
         ports:
         - containerPort: 8080
 
